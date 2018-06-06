@@ -1,5 +1,6 @@
 'use strict';
 
+const test = 'test';
 const express = require('express');
 const mongoose = require('mongoose');
 
